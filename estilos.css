@@ -1,6 +1,6 @@
-.nombre {color:rgba(212, 228, 74, 0.747); text-align:center; font-family: 'Marmelad', sans-serif;}
+#nombre {color:rgba(54, 20, 109, 0.747); text-align:left; font-family: 'Marmelad', sans-serif;}
 .fondoencabezado {width:100%; height: 500px;}
-.flotararriba{margin-top: -200px; border: collapse 50px;}
+.flotararriba{margin: -200px 0px 0px 10px; border: collapse 50px;}
 .redondeado{border-radius: 500px;}
 .logored{height: 20px;width: 20px;float:right;}
 .subealto{margin-top:-500px;}
